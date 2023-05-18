@@ -1,0 +1,195 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    height: 320vh;
+    width: 100vw;
+    color: white;
+    display: inline-block;
+    background-color: rgba(0, 8, 29, 1);;
+}
+.head{
+    display: block;
+    align-items: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(https://assets.nflxext.com/ffe/siteui/vlv3/a1dc92ca-091d-4ca9-a05b-8cd44bbfce6a/f9368347-e982-4856-a5a4-396796381f28/RS-en-20191230-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+}
+.m0{
+    height: 10vh; 
+    width: 100vw;
+    align-items: center; 
+    display: flex;
+}
+.img1{
+    height: 50px;
+    width: 100px;
+    margin: 10px 30px;
+}
+.lang{
+    height: 30px;
+    width: 100px;
+    margin:24px 30px 24px 72vw;
+    padding: 0px 10px;
+    background-color: rgb(15, 15, 15,0.71);
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.btn1{
+    height: 30px;
+    width: 100px;
+    color: white;
+    margin: 24px 30px 24px 5px;
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.btn1:hover{
+    background-color: rgb(75, 3, 3);
+    color: yellow;
+}
+.m1{
+    margin: 20vh 0px 20vh 30px;
+}
+
+.h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h3{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-stretch: condensed;
+    margin: 21px 0px 30px 0px;
+}
+.imp1{
+    height: 6vh;
+    width: 20vw;
+    align-items: center;
+    background-color: rgb(15, 15, 15,0.71);
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 0px 0px 0px 10px ;
+    /* box-shadow: bolder; */
+    margin: 0px 10px 0px 0px;
+}
+.btn2{
+    height: 6vh;
+    width: 8vw;
+    background-color: red;
+    border-radius: 10px;
+    border: solid 2px white;
+}
+.btn2:hover{
+    background-color: rgb(75, 3, 3);
+    color: yellow;
+}
+.m2{
+    display: flex;
+    margin: 20px 30px;
+}
+.cont1,.cont2,.cont3,.cont4 {
+    height: 50vh;
+    width: 25vw;
+    border-radius: 10px;
+    /* text-align: center; */
+    /* padding: 10px 0px; */
+    margin: 0px 4px;
+    background: linear-gradient(151.6deg, #E40913 -46.64%, #181049 48.45%);
+}
+.img{
+    height: 100px;
+    width: 100px;
+    margin: 15px 0px 15px 15px;
+}
+.h2{
+    margin: 0px 0px 0px 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.p1{
+    margin: 10px 20px 0px 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.m3{
+    margin: 30px 30px;
+}
+.p2{
+    margin: 0px 0px 0px 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+.btn3,.btn4,.btn5,.btn6,.btn7,.btn8{
+    height: 80px;
+    width: 80vw;
+    border-radius: 10px;
+    /* justify-content: center; */
+    margin: 04px 15px;
+    background-color: rgb(36, 34, 34);
+    font-size: 30px;
+    font-weight: bold; 
+    text-align-last: left;
+    padding-left: 30px; 
+}
+.btn3:hover,.btn4:hover,.btn5:hover,.btn6:hover,.btn7:hover,.btn8:hover{
+    font-size: 31px;
+    font-weight: bold;
+}
+.m4{
+    margin: 0px 50px 30px;
+}
+.contact{
+    margin: 100px 0px 70px 50px;
+}
+nav{
+    display: flex;
+}
+.ul1{
+    display: grid;
+    margin: 20px 0px 20px 60px;
+}
+.ul2{
+    display: grid;
+    margin: 20px 0px 20px 200px;
+}
+.ul3{
+    display: grid;
+    margin: 20px 0px 20px 200px;
+}
+.ul4{
+    display: grid;
+    margin: 50px 7px 39px 200px;
+}
+.l1{
+    margin: 15px 0px;
+}
+.l2{
+    margin: -13px 0px 0px 0px;
+}
+.l3{
+   margin: -13px 0px 0px 0px;
+}
+.l4{
+    margin: -13px 0px 0px 0px;
+}
+a{
+    color: white;
+}
+.tell{
+    margin: 0px 50px 30px
+}
+.lang1{
+    height: 30px;
+    width: 100px;
+    margin:24px 0px 24px ;
+    padding: 0px 10px;
+    background-color: rgb(15, 15, 15,0.71);
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
